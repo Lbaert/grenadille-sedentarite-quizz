@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "id": "age",
+      "label": "Quel est votre âge ?",
+      "min": 18,
+      "max": 80,
+      "step": 1,
+      "unit": "ans"
+    },
+    {
+      "id": "activity_hours",
+      "label": "Combien d’heures par semaine consacrez-vous à une activité physique (sport, marche rapide, vélo, etc.) ?",
+      "min": 0,
+      "max": 15,
+      "step": 1,
+      "unit": "h/semaine"
+    },
+    {
+      "id": "activity_days",
+      "label": "Combien de jours par semaine faites-vous au moins 30 minutes d’activité modérée à intense ?",
+      "min": 0,
+      "max": 7,
+      "step": 1,
+      "unit": "jours"
+    },
+    {
+      "id": "activity_intensity",
+      "label": "À quelle intensité estimez-vous vos efforts physiques habituels ?",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "unit": "/10"
+    },
+    {
+      "id": "sedentary_hours",
+      "label": "Combien d’heures par jour passez-vous assis (travail, études, transports, TV, etc.) ?",
+      "min": 0,
+      "max": 14,
+      "step": 1,
+      "unit": "h/jour"
+    },
+    {
+      "id": "screen_hours",
+      "label": "Combien d’heures par jour passez-vous devant un écran hors travail (séries, jeux, réseaux sociaux, etc.) ?",
+      "min": 0,
+      "max": 8,
+      "step": 1,
+      "unit": "h/jour"
+    },
+    {
+      "id": "sleep_hours",
+      "label": "Combien d’heures dormez-vous en moyenne par nuit ?",
+      "min": 0,
+      "max": 12,
+      "step": 1,
+      "unit": "h/nuit"
+    },
+    {
+      "id": "sleep_quality",
+      "label": "Comment évaluez-vous la qualité de votre sommeil ?",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "unit": "/10"
+    },
+    {
+      "id": "energy_level",
+      "label": "Quel est votre niveau d’énergie moyen au quotidien ?",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "unit": "/10"
+    },
+    {
+      "id": "stress_level",
+      "label": "Quel est votre niveau de stress habituel ?",
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "unit": "/10"
+    },
+    {
+      "id": "social_activities",
+      "label": "Combien de fois par semaine participez-vous à des activités sociales (amis, famille, loisirs, associations) ?",
+      "min": 0,
+      "max": 14,
+      "step": 1,
+      "unit": "fois/semaine"
+    },
+    {
+      "id": "outdoor_hours",
+      "label": "Combien de temps par semaine passez-vous à l’extérieur (balade, nature, sport dehors, sorties) ?",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "unit": "h/semaine"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "title": "Recommandations temps d'écran par âge et alternatives",
+    "version": "2025",
+    "sources": [
+      "OMS 2024-2025",
+      "Santé Publique France 2025",
+      "Ministère de la Santé français 2025",
+      "Commission Enfants et écrans 2024",
+      "Arcom 2024"
+    ],
+    "last_updated": "2025-09-23"
+  },
+  "age_groups": {
+    "0-3_ans": {
+      "description": "Cerveau en plein développement, besoin d'interactions réelles",
+      "temps_ecran_max": {
+        "smartphone_tablette": {
+          "temps_minutes": 0,
+          "note": "Uniquement appels vidéo famille (15 min max exceptionnellement)"
+        },
+        "television": {
+          "temps_minutes": 0,
+          "note": "Interdit, même en bruit de fond"
+        },
+        "jeux_video": {
+          "temps_minutes": 0,
+          "note": "Totalement déconseillés"
+        },
+        "internet_reseaux_sociaux": {
+          "temps_minutes": 0,
+          "note": "Aucun accès"
+        }
+      },
+      "alternatives_par_appareil": {
+        "smartphone_tablette": [
+          "Jeux sensoriels : manipulation d'objets, textures",
+          "Cubes d'éveil, pianos sensoriels",
+          "Jeux d'encastrement et d'empilement (18 mois+)",
+          "Tapis d'éveil pour motricité libre"
+        ],
+        "television": [
+          "Interactions face-à-face : comptines, mimiques",
+          "Lectures partagées avec imagiers",
+          "Jeux de cache-cache, coucou-caché",
+          "Observation des couleurs et formes dans la nature"
+        ],
+        "jeux_video": [
+          "Jeux de construction simples : gros Lego Duplo",
+          "Puzzles encastrables 2-4 pièces",
+          "Jeux de transvasement avec ustensiles",
+          "Ballons en mousse, balles sensorielles"
+        ],
+        "internet_reseaux_sociaux": [
+          "Découverte de l'environnement proche : jardin, parc",
+          "Observation d'animaux : oiseaux, chats",
+          "Promenades avec commentaires des parents",
+          "Jeux d'eau supervisés (bac, bassine)"
+        ]
+      },
+      "regles_fundamentales": [
+        "Aucun écran avant 3 ans selon l'OMS",
+        "Privilégier les 5 sens et la motricité",
+        "Interactions humaines prioritaires",
+        "Éviter la technoférence parentale"
+      ]
+    },
+    "3-6_ans": {
+      "description": "Initiation progressive avec accompagnement parental obligatoire",
+      "temps_ecran_max": {
+        "smartphone_tablette": {
+          "temps_minutes": 30,
+          "note": "15 min à 3-4 ans, 30 min à 5-6 ans, toujours accompagné"
+        },
+        "television": {
+          "temps_minutes": 60,
+          "note": "Contenus éducatifs commentés par un parent"
+        },
+        "jeux_video": {
+          "temps_minutes": 0,
+          "note": "Pas de console personnelle, jeux familiaux occasionnels possibles"
+        },
+        "internet_reseaux_sociaux": {
+          "temps_minutes": 0,
+          "note": "Pas d'accès internet, réseaux sociaux interdits"
+        }
+      },
+      "alternatives_par_appareil": {
+        "smartphone_tablette": [
+          "Applications créatives : dessins, coloriages sur papier",
+          "Origami simple, pliages colorés",
+          "Jeux de memory physique avec cartes",
+          "Création de livres d'images personnalisés"
+        ],
+        "television": [
+          "Théâtre de marionnettes fait-maison",
+          "Contes racontés avec déguisements",
+          "Spectacles familiaux improvisés",
+          "Livres audio avec illustrations"
+        ],
+        "jeux_video": [
+          "Jeux de société adaptés : jeu de l'oie, Uno junior",
+          "Constructions Lego, Kapla, Playmobil",
+          "Jeux de rôle : poupées, petites voitures",
+          "Puzzles 20-50 pièces selon l'âge"
+        ],
+        "internet_reseaux_sociaux": [
+          "Jardinage : plantations, arrosage",
+          "Cuisine simple : cookies, crêpes",
+          "Bricolage avec carton, colle, ciseaux",
+          "Chasses au trésor dans le jardin"
+        ]
+      },
+      "regles_fundamentales": [
+        "Règle des 4 PAS : pas le matin, pas aux repas, pas avant le coucher, pas dans la chambre",
+        "Jamais d'écran solitaire",
+        "Privilégier les contenus éducatifs français",
+        "Arrêt 1h avant le coucher minimum"
+      ]
+    },
+    "6-11_ans": {
+      "description": "Apprentissage de l'autonomie avec règles claires",
+      "temps_ecran_max": {
+        "smartphone_tablette": {
+          "temps_minutes": 60,
+          "note": "Pas de smartphone personnel avant 9-10 ans, tablette familiale supervisée"
+        },
+        "television": {
+          "temps_minutes": 60,
+          "note": "Programmes éducatifs ou familiaux, sous-titrés privilégiés"
+        },
+        "jeux_video": {
+          "temps_minutes": 45,
+          "note": "Console possible dès 6 ans, jeux PEGI 3-7, privilégier coopératif"
+        },
+        "internet_reseaux_sociaux": {
+          "temps_minutes": 30,
+          "note": "Initiation à 9 ans sous supervision, sites éducatifs uniquement"
+        }
+      },
+      "alternatives_par_appareil": {
+        "smartphone_tablette": [
+          "Cahiers d'activités, mots fléchés adaptés à l'âge",
+          "Kits créatifs : bracelets brésiliens, perles",
+          "Photographie avec appareil simple, albums photos",
+          "Correspondance écrite avec famille/amis"
+        ],
+        "television": [
+          "Lecture autonome : BD, romans jeunesse",
+          "Podcasts éducatifs pour enfants",
+          "Jeux de société complexes : Monopoly junior, Cluedo",
+          "Spectacles vivants : théâtre, concerts locaux"
+        ],
+        "jeux_video": [
+          "Sports collectifs : football, basket entre amis",
+          "Arts martiaux, danse, gymnastique",
+          "Jeux d'extérieur : frisbee, cerf-volant",
+          "Construction de cabanes, parcours d'obstacles"
+        ],
+        "internet_reseaux_sociaux": [
+          "Projets scientifiques : volcans, cristaux",
+          "Élevages d'insectes, observation nature",
+          "Visites musées, centres scientifiques",
+          "Initiation programmation avec jeux tangibles"
+        ]
+      },
+      "regles_fundamentales": [
+        "Planning fixe : devoirs → activités → écrans",
+        "Contrôle parental obligatoire sur tous les appareils",
+        "Répartition libre du quota journalier",
+        "Priorité aux activités physiques et créatives"
+      ]
+    },
+    "12-17_ans": {
+      "description": "Transition vers autonomie responsable et éducation numérique",
+      "temps_ecran_max": {
+        "smartphone_tablette": {
+          "temps_minutes": 180,
+          "note": "Premier smartphone 11-12 ans, contrôle parental progressivement assoupli"
+        },
+        "television": {
+          "temps_minutes": 120,
+          "note": "Usage libre mais raisonné, éviter multi-écrans simultanés"
+        },
+        "jeux_video": {
+          "temps_minutes": 90,
+          "note": "Jeux selon PEGI, attention aux jeux en ligne, max 1-2h/jour semaine"
+        },
+        "internet_reseaux_sociaux": {
+          "temps_minutes": 120,
+          "note": "Réseaux sociaux dès 13 ans légalement, majorité numérique 15 ans en France"
+        }
+      },
+      "alternatives_par_appareil": {
+        "smartphone_tablette": [
+          "Défis sportifs entre amis : course, fitness challenges",
+          "Projets artistiques : film-making avec équipe",
+          "Bénévolat associatif local",
+          "Apprentissage instruments de musique en groupe"
+        ],
+        "television": [
+          "Soirées débat en famille sur l'actualité",
+          "Clubs de lecture entre adolescents",
+          "Cinéma suivi de discussions critiques",
+          "Podcasts de développement personnel"
+        ],
+        "jeux_video": [
+          "Sports en équipe : tournois entre lycées",
+          "Escalade, parkour, sports extrêmes supervisés",
+          "Compétitions d'e-sport organisées et limitées",
+          "Jeux de société stratégiques entre amis"
+        ],
+        "internet_reseaux_sociaux": [
+          "Projets collaboratifs : journaux lycéens, blogs",
+          "Activités citoyennes : conseils municipaux jeunes",
+          "Voyages scolaires, échanges internationaux",
+          "Stages découverte métiers, jobs d'été"
+        ]
+      },
+      "regles_fundamentales": [
+        "Pauses obligatoires toutes les 45-60 minutes",
+        "Téléphone hors chambre la nuit",
+        "1 soirée/semaine sans écrans en famille",
+        "Discussion ouverte sur contenus et interactions"
+      ]
+    }
+  },
+  "conseils_universels": {
+    "regle_3_equilibres": {
+      "description": "Pour chaque heure d'écran",
+      "equilibres": [
+        "1h d'activité physique (sport, marche, jeux extérieurs)",
+        "1h d'activité créative (lecture, dessin, musique, bricolage)",
+        "1h de moments sociaux (famille, amis, discussions face-à-face)"
+      ]
+    },
+    "signaux_alerte_surexposition": [
+      "Troubles du sommeil et difficultés d'endormissement",
+      "Baisse des résultats scolaires",
+      "Isolement social, refus activités familiales",
+      "Agressivité lors de l'arrêt des écrans",
+      "Négligence hygiène ou repas"
+    ],
+    "outils_controle_parental_2025": [
+      "Google Family Link (gratuit, Android)",
+      "Qustodio (solution complète, payante)",
+      "Screen Time (Apple, intégré iOS)",
+      "Norton Family (sécurité renforcée)"
+    ]
+  },
+  "donnees_statistiques_france_2025": {
+    "temps_moyen_par_age": {
+      "2_ans": "56 minutes/jour",
+      "3_5_ans": "1h20/jour",
+      "5_5_ans": "1h34/jour",
+      "6_17_ans": "4h11/jour",
+      "12_17_ans": "Plus de 3h usage personnel/jour"
+    },
+    "preoccupations_parents": "83% souhaitent réduire exposition écrans enfants"
+  }
+}
